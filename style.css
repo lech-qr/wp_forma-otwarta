@@ -1,0 +1,21 @@
+/*
+Theme Name: Szablon wykonany przez Jet IT dla...
+Theme URI: http://jet-it.pl/
+Description: Szablon wykonany przez Jet IT dla...
+Author: Jet IT
+Author URI: http://jet-it.pl/
+Version: 1.0
+Tags: responsive, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+Szablon stworzona dla ...
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,700&subset=latin-ext');
+@import url('bootstrap/css/bootstrap.min.css'); 
+/*@import url('bootstrap/css/bootstrap-theme.min.css');*/
+
+@import url('style/css/szablon.css');
+@import url('style/css/mobilne.css');
